@@ -1,0 +1,17 @@
+   ______________________________
+ / \                             \.
+|   | This log file was created  |.
+ \_ | by the Wizard, it contains |.
+    | the configuration data     |.
+    | used for the application   |.
+    | generation.                |.
+    |                            |.
+    | It shouldn't be edited     |.
+    | manually, changing it      |.
+    | won't affect the generated |.
+    | sample.                    |.
+    |   _________________________|___
+    |  /                            /.
+    \_/____________________________/.
+
+{"projectName":"AppOdataV4","projectLocation":"C:\\Users\\ennio.caprio\\AndroidStudioProjects\\AppOdataV4","projectNamespace":"com.sap.appodatav4","accountName":"AppOdataV4","serviceURL":"https://trial-i8jxf5mr-dev-com-sap-appodatav4.cfapps.us10.hana.ondemand.com/","serverURL":"https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com/cockpit/v1/org/a016b965-3ccc-43d4-9b5b-09b9251532e6/space/0bdb35f3-06bf-4b9d-aa5f-1ee42bbc3a76/","applicationID":"com-sap-AppOdataV4","applicationSecurityConfig":"OAUTH","jsonPath":null,"senderID":null,"serverKey":null,"isLogEnabled":true,"isLogUploadEnabled":true,"SAPSDKLocation":"MAVEN_LOCAL","useDiscoveryService":false,"generateJavaCode":true,"generateOnlineApp":false,"isUsageIncluded":false,"isCrashReportIncluded":false,"isMultipleUserMode":false}
